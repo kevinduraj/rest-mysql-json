@@ -16,6 +16,7 @@ maven rest mysql spatial polygon json bootstrap
 * mvn tomcat:undeploy
 
 ##References:
+* http://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html
 * http://projects.spring.io/spring-boot/
 * http://patrickgrimard.com/2014/08/14/how-to-build-a-spring-boot-application-using-intellij-idea/
 
